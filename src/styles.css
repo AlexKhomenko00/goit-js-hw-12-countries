@@ -58,14 +58,3 @@ body {
 .description__header {
   font-weight: 800;
 }
-.pnotify {
-  position: fixed;
-}
-.brighttheme-icon-closer {
-  position: absolute;
-  right: 10%;
-}
-.brighttheme-icon-sticker {
-  position: absolute;
-  right: 18%;
-}
